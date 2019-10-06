@@ -109,14 +109,14 @@ analytics:
 author:
   name             : "Yasaman T"
   avatar           : "https://pmcvariety.files.wordpress.com/2019/06/hunter-schafer.jpg?w=1000"
-  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
+  bio              :  
   location         : "تهران"
   email            : black.0hat1997@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  twitter: 
+  linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: YasamanT
+  instagram: 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
