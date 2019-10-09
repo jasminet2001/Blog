@@ -9,6 +9,8 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* Watching TV Shows(Esp. Netflix)
+* Watching Youtube
+* Listening To Music
 
 
