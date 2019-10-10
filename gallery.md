@@ -7,10 +7,7 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/the-weeping-woman.jpg
-    image_path: /assets/images/the-weeping-woman.jpg
-    alt: "the-weeping-woman"
-    title: "Image 1 title caption"
+
   - url: /assets/images/5376315-QMKVVEMA-6.jpg
     image_path: /assets/images/5376315-QMKVVEMA-6.jpg
     alt: "placeholder image 2"
