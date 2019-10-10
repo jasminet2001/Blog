@@ -11,22 +11,24 @@ gallery:
     image_path: /assets/images/1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/2.jpg
-    image_path: /assets/images/2.jpg
+  - url: /assets/images/5376315-QMKVVEMA-6.jpg
+    image_path: /assets/images/5376315-QMKVVEMA-6.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/3.jpg
-    image_path: /assets/images/3.jpg
+  - url: /assets/images/ff88438c37908e123dc88528bd6dd720.jpg
+    image_path: /assets/images/ff88438c37908e123dc88528bd6dd720.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"  
-  - url: /assets/images/4.jpg
-    image_path: /assets/images/4.jpg
+  - url: /assets/images/playful-spring-colorful-happy-abstract-art-painting-modern-art-prints.jpg
+    image_path: /assets/images/playful-spring-colorful-happy-abstract-art-painting-modern-art-prints.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
-  - url: /assets/images/5.jpg
-    image_path: /assets/images/5.jpg
+  - url: /assets/images/static1.seeantibes.com_image_uploader_photos_9e_large_pablo-picasso (1).jpg
+    image_path: /assets/images/static1.seeantibes.com_image_uploader_photos_9e_large_pablo-picasso (1).jpg
     alt: "placeholder image 5"
-    title: "Image 5 title caption"    
+    title: "Image 5 title caption" 
+  - url: /assets/images/static1.seeantibes.com_image_uploader_photos_9e_large_pablo-picasso.jpg   
+    image_path: /assets/images/static1.seeantibes.com_image_uploader_photos_9e_large_pablo-picasso.jpg
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
