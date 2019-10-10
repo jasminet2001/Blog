@@ -7,8 +7,8 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/1.jpg
-    image_path: /assets/images/1.jpg
+  - url: /assets/images/the-weeping-woman.jpg
+    image_path: /assets/images/the-weeping-woman.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/5376315-QMKVVEMA-6.jpg
@@ -25,10 +25,7 @@ gallery:
     title: "Image 4 title caption"
   - url: /assets/images/static1.seeantibes.com_image_uploader_photos_9e_large_pablo-picasso (1).jpg
     image_path: /assets/images/static1.seeantibes.com_image_uploader_photos_9e_large_pablo-picasso (1).jpg
-    alt: "placeholder image 5"
-    title: "Image 5 title caption" 
-  - url: /assets/images/static1.seeantibes.com_image_uploader_photos_9e_large_pablo-picasso.jpg   
-    image_path: /assets/images/static1.seeantibes.com_image_uploader_photos_9e_large_pablo-picasso.jpg
+    
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
