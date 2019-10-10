@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [LinkedIn](https://www.linkedin.com/in/yasaman-t-892481195/)
+* [Github](https://yasamant.github.io)
+* [Email](black.0.hat1997@gmail.com)
+* []()
 
