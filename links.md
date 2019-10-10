@@ -11,6 +11,4 @@ comments: false
 
 * [LinkedIn](https://www.linkedin.com/in/yasaman-t-892481195/)
 * [Github](https://yasamant.github.io)
-* [Email](black.0.hat1997@gmail.com)
-* []()
 
