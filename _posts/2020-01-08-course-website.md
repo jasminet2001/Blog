@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Lab Exam 
+title: course website
 ---
 Howdy?
 So right now I'm sittig here posting while I'm taking an exam! It actually is part of our exam! So this is me right now:
