@@ -22,6 +22,10 @@ gallery:
     title: "Image 4 title caption"
   - url: /assets/images/static1.seeantibes.com_image_uploader_photos_9e_large_pablo-picasso (1).jpg
     image_path: /assets/images/static1.seeantibes.com_image_uploader_photos_9e_large_pablo-picasso (1).jpg
+  - url: /assets/images/labexam.jpg
+    image_path: /assets/images/labexam.jpg
+    alt: "lab"
+    title: "Computer Lab"  
     
 ---
 
