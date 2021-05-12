@@ -40,3 +40,13 @@ comments: false
 			* Farsi: Mother Language
 			* English: Fluent
 			* French: Beginner(A1)
+
+|    |    | **Skills**   
+			* CODING IN C# AND PYTHON
+			* MS OFFICE (WORD, EXCEL,
+			OUTLOOK, POWERPOINT)
+			* FRONT-END (HTML, CSS,
+			JAVASCRIPT)
+			* ABILITY TO WORK IN A TEAM
+			* PROBLEM-SOLVING SKILLS
+			* BOOTSTRAP
