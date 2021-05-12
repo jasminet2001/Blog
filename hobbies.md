@@ -11,6 +11,9 @@ comments: false
 
 * Watching TV Shows(Esp. Netflix)
 * Watching Youtube
+* Playing Video Games
 * Listening To Music
+* Coding
+* Learning New Languages
 
 
