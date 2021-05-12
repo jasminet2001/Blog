@@ -13,14 +13,14 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" #"default" # "air", "neon", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" #"default" # "air", "neon", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
 title                    : ""
 title_separator          : "-"
-name                     : "Yasaman" 
-description              : "Welcome to my web site."
+name                     : "Jasmine" 
+description              : "Welcome to my web site!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,15 +107,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yasaman T"
-  avatar           : "/assets/images/avatar.jpg"
+  name             : "Jasmine Tavakkoli"
+  avatar           : "/assets/images/profile.jpg"
   bio              :  
-  location         : "تهران"
+  location         : "Tehran, Iran"
   email            : black.0.hat1997@gmail.com
   twitter: 
-  linkedin: yasaman-t-892481195/
   google_scholar: Q25s5KkAAAAJ
-  github: YasamanT
+  github: jasminet2001
   instagram: 
   links:
     - label: "Email"
